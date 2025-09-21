@@ -1,0 +1,23 @@
+div {
+    background: red;
+}
+
+.main {
+    background-color: aqua;
+    float: left;
+    width: 65%;
+    padding: 16px;
+    margin-bottom: 24px;
+    border: dashed 3px black; /*dashed, solid, double, groove, etc.*/
+}
+
+.sidebar{
+    background-color:burlywood;
+    float: right;
+    width: 35%;
+}
+
+.footer{
+    background-color:cadetblue;
+    clear: both;
+}
